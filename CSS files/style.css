@@ -237,6 +237,7 @@ body{
     .visuals_anchor{
         gap: 0 3px;
         font-size: 10px;
+        border: 1.8px solid #26E0EC;
         padding: 9px 0;
         width: 100px;
     }

@@ -7,6 +7,11 @@ This is a simple "About Me" website built using HTML and CSS. The website is des
 - Responsive design: The website is designed to look great on all devices, from small smartphones to large desktop computers.
 - Customizable: The website can be easily customized to fit the person's personal style and preferences.
 - Easy to use: The website is built using simple HTML and CSS, making it easy for anyone to understand and modify.
+  
+![First Picture](images/1.png)
+![Second Picture](images/2.png)
+![Third Picture](images/3.png)
+
 
 ## Getting Started
 
